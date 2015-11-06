@@ -1,5 +1,5 @@
 #Beagle Sense API Reference
-*DRAFT Version 0.1*
+*DRAFT Version v0.1*
 
 # Versions and URLs
 
